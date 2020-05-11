@@ -1,0 +1,10 @@
+C:\Users\chipi\source\repos\UwU\UwU\bin\Debug\7u7.exe.config
+C:\Users\chipi\source\repos\UwU\UwU\bin\Debug\7u7.exe
+C:\Users\chipi\source\repos\UwU\UwU\bin\Debug\7u7.pdb
+C:\Users\chipi\source\repos\UwU\UwU\obj\Debug\7u7.csprojAssemblyReference.cache
+C:\Users\chipi\source\repos\UwU\UwU\obj\Debug\UwU.GFizzi.resources
+C:\Users\chipi\source\repos\UwU\UwU\obj\Debug\UwU.Properties.Resources.resources
+C:\Users\chipi\source\repos\UwU\UwU\obj\Debug\7u7.csproj.GenerateResource.cache
+C:\Users\chipi\source\repos\UwU\UwU\obj\Debug\7u7.csproj.CoreCompileInputs.cache
+C:\Users\chipi\source\repos\UwU\UwU\obj\Debug\7u7.exe
+C:\Users\chipi\source\repos\UwU\UwU\obj\Debug\7u7.pdb
